@@ -18,3 +18,11 @@ Support Vector Machine.ipynb: An initial attempt to enhance multiclass predictio
 variable.ipynb: Another preliminary exploration focusing on variable adjustments for improved multiclass prediction.
 ## Final Model
 FinalVersion.ipynb: Contains the final machine learning model with the highest accuracy achieved, along with additional visualizations for comprehensive analysis.
+
+## Resources
+Document: https://scholarworks.calstate.edu/downloads/73666b68n
+Dataset: https://www.kaggle.com/datasets/insiyeah/musicfeatures/data
+Github: https://github.com/Insiyaa/Music-Tagging/tree/master
+Libosa: https://librosa.org/doc/latest/install.html
+Chatgpt
+
